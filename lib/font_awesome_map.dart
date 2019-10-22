@@ -1524,4 +1524,7 @@ Map<String, IconData> icons = {
   'fa-youtube': IconDataBrands(0xf167),
   'fa-youtube-square': IconDataBrands(0xf431),
   'fa-zhihu': IconDataBrands(0xf63f),
+  'playbook': IconDataCustom(0xe800),
+  'escalate': IconDataCustom(0xe801),
+  'alert_user_assign': IconDataCustom(0xe802),
 };

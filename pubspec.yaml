@@ -26,4 +26,8 @@ flutter:
       fonts:
         - asset: lib/fonts/fa-solid-900.ttf
           weight: 900
+    - family: customIcon
+      fonts:
+        - asset: lib/fonts/custom.ttf
+          weight: 400
 

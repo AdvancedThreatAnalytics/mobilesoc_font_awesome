@@ -28,3 +28,12 @@ class IconDataRegular extends IconData {
           fontPackage: 'mobilesoc_font_awesome',
         );
 }
+
+class IconDataCustom extends IconData {
+  const IconDataCustom(int codePoint)
+      : super(
+          codePoint,
+          fontFamily: 'customIcon',
+          fontPackage: 'custom',
+        );
+}
