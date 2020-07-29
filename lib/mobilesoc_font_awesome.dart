@@ -23,10 +23,8 @@ class MobilesocFontAwesome {
   static const IconData cs_logo = IconFontello(0xe800);
   static const IconData dropdown_arrow = IconFontello(0xe801);
   static const IconData alert_organization = IconFontello(0xe802);
-  static const IconData arrow_down_grey = IconFontello(0xe803);
-  static const IconData arrow_down_white = IconFontello(0xe804);
-  static const IconData arrow_up_grey = IconFontello(0xe805);
-  static const IconData arrow_up_white = IconFontello(0xe806);
+  static const IconData arrow_down = IconFontello(0xe803);
+  static const IconData arrow_up = IconFontello(0xe806);
   static const IconData assigned_group = IconFontello(0xe807);
   static const IconData assigned_to_me = IconFontello(0xe808);
   static const IconData assigned_to_mssp = IconFontello(0xe809);
