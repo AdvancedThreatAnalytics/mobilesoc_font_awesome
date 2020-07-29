@@ -1,5 +1,3 @@
-library mobilesoc_font_awesome;
-
 import 'package:flutter/widgets.dart';
 
 class IconDataBrands extends IconData {
@@ -25,6 +23,15 @@ class IconDataRegular extends IconData {
       : super(
           codePoint,
           fontFamily: 'FontAwesomeRegular',
+          fontPackage: 'mobilesoc_font_awesome',
+        );
+}
+
+class IconFontello extends IconData {
+  const IconFontello(int codePoint)
+      : super(
+          codePoint,
+          fontFamily: 'fontello',
           fontPackage: 'mobilesoc_font_awesome',
         );
 }
