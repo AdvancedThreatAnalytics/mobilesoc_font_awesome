@@ -24,6 +24,8 @@ class MobilesocFontAwesome {
   static const IconData dropdown_arrow = IconFontello(0xe801);
   static const IconData alert_organization = IconFontello(0xe802);
   static const IconData arrow_down = IconFontello(0xe803);
+  static const IconData chevron_right = IconFontello(0xe804);
+  static const IconData comments = IconFontello(0xe805);
   static const IconData arrow_up = IconFontello(0xe806);
   static const IconData assigned_group = IconFontello(0xe807);
   static const IconData assigned_to_me = IconFontello(0xe808);
@@ -44,4 +46,7 @@ class MobilesocFontAwesome {
   static const IconData org_switcher_arrow = IconFontello(0xe817);
   static const IconData search = IconFontello(0xe818);
   static const IconData touch_id = IconFontello(0xe819);
+  static const IconData escalate_alert_swipe = IconFontello(0xe81a);
+  static const IconData assign_to_me = IconFontello(0xe81b);
+  static const IconData close_alert_swipe = IconFontello(0xe81c);
 }
