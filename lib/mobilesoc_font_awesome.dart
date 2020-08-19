@@ -49,4 +49,12 @@ class MobilesocFontAwesome {
   static const IconData escalate_alert_swipe = IconFontello(0xe81a);
   static const IconData assign_to_me = IconFontello(0xe81b);
   static const IconData close_alert_swipe = IconFontello(0xe81c);
+  static const IconData devo_console = IconFontello(0xe81d);
+  static const IconData initial_event = IconFontello(0xe81e);
+  static const IconData edit = IconFontello(0xe81f);
+  static const IconData more_actions = IconFontello(0xe820);
+  static const IconData nav_orchestration = IconFontello(0xe821);
+  static const IconData copy = IconFontello(0xe824);
+  static const IconData radiobutton_off = IconFontello(0xe825);
+  static const IconData radiobutton_on = IconFontello(0xe826);
 }
