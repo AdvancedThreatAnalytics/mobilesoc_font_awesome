@@ -54,7 +54,22 @@ class MobilesocFontAwesome {
   static const IconData edit = IconFontello(0xe81f);
   static const IconData more_actions = IconFontello(0xe820);
   static const IconData nav_orchestration = IconFontello(0xe821);
+  static const IconData dot_paragraph = IconFontello(0xe822);
+  static const IconData change_password = IconFontello(0xe823);
   static const IconData copy = IconFontello(0xe824);
   static const IconData radiobutton_off = IconFontello(0xe825);
   static const IconData radiobutton_on = IconFontello(0xe826);
+  static const IconData tokens = IconFontello(0xe827);
+  static const IconData add_new = IconFontello(0xe828);
+  static const IconData user_email = IconFontello(0xe829);
+  static const IconData contact_us = IconFontello(0xe82a);
+  static const IconData release_notes = IconFontello(0xe82b);
+  static const IconData app_guide = IconFontello(0xe82c);
+  static const IconData terms = IconFontello(0xe82d);
+  static const IconData organization = IconFontello(0xe82e);
+  static const IconData subscription = IconFontello(0xe82f);
+  static const IconData help = IconFontello(0xe830);
+  static const IconData support = IconFontello(0xe831);
+  static const IconData phone_number = IconFontello(0xe833);
+  static const IconData security = IconFontello(0xe834);
 }
