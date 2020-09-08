@@ -54,6 +54,8 @@ class MobilesocFontAwesome {
   static const IconData edit = IconFontello(0xe81f);
   static const IconData more_actions = IconFontello(0xe820);
   static const IconData nav_orchestration = IconFontello(0xe821);
+  static const IconData dot_paragraph = IconFontello(0xe822);
+  static const IconData change_password = IconFontello(0xe823);
   static const IconData copy = IconFontello(0xe824);
   static const IconData radiobutton_off = IconFontello(0xe825);
   static const IconData radiobutton_on = IconFontello(0xe826);
