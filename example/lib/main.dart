@@ -22,7 +22,9 @@ class _MyAppState extends State<MyApp> {
           title: const Text('Mobilesoc Font Awesome Plugin Example'),
           leading: IconButton(
             // This is an invalid case, so default icon will be returned
-            icon: Icon(MobilesocFontAwesome.cs_logo),
+            icon: Icon(
+              MobilesocFontAwesome.cs_logo,
+            ),
             onPressed: () {},
           ),
         ),

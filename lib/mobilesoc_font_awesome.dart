@@ -57,4 +57,25 @@ class MobilesocFontAwesome {
   static const IconData copy = IconFontello(0xe824);
   static const IconData radiobutton_off = IconFontello(0xe825);
   static const IconData radiobutton_on = IconFontello(0xe826);
+  static const IconData tokens = IconFontello(0xe827);
+  static const IconData add_new = IconFontello(0xe828);
+  static const IconData user_email = IconFontello(0xe829);
+  static const IconData contact_us = IconFontello(0xe82a);
+  static const IconData release_notes = IconFontello(0xe82b);
+  static const IconData app_guide = IconFontello(0xe82c);
+  static const IconData terms = IconFontello(0xe82d);
+  static const IconData organization = IconFontello(0xe82e);
+  static const IconData subscription = IconFontello(0xe82f);
+  static const IconData help = IconFontello(0xe830);
+  static const IconData support = IconFontello(0xe831);
+  static const IconData phone_number = IconFontello(0xe833);
+  static const IconData security = IconFontello(0xe834);
+  static const IconData timeline = IconFontello(0xe835);
+  static const IconData checkbox_default = IconFontello(0xe837);
+  static const IconData minus = IconFontello(0xe838);
+  static const IconData btn_send = IconFontello(0xe83A);
+  static const IconData plus = IconFontello(0xe83B);
+  static const IconData sla_countdown = IconFontello(0xe83C);
+  static const IconData tick = IconFontello(0xe83D);
+  static const IconData checkbox_selected = IconFontello(0xe83E);
 }
