@@ -72,4 +72,12 @@ class MobilesocFontAwesome {
   static const IconData support = IconFontello(0xe831);
   static const IconData phone_number = IconFontello(0xe833);
   static const IconData security = IconFontello(0xe834);
+  static const IconData timeline = IconFontello(0xe835);
+  static const IconData checkbox_default = IconFontello(0xe837);
+  static const IconData minus = IconFontello(0xe838);
+  static const IconData btn_send = IconFontello(0xe83A);
+  static const IconData plus = IconFontello(0xe83B);
+  static const IconData sla_countdown = IconFontello(0xe83C);
+  static const IconData tick = IconFontello(0xe83D);
+  static const IconData checkbox_selected = IconFontello(0xe83E);
 }
