@@ -75,9 +75,15 @@ class MobilesocFontAwesome {
   static const IconData timeline = IconFontello(0xe835);
   static const IconData checkbox_default = IconFontello(0xe837);
   static const IconData minus = IconFontello(0xe838);
-  static const IconData btn_send = IconFontello(0xe83A);
+  static const IconData escalate = IconFontello(0xe83A);
   static const IconData plus = IconFontello(0xe83B);
   static const IconData sla_countdown = IconFontello(0xe83C);
   static const IconData tick = IconFontello(0xe83D);
   static const IconData checkbox_selected = IconFontello(0xe83E);
+  static const IconData feeds = IconFontello(0xe832);
+  static const IconData list = IconFontello(0xe836);
+  static const IconData playbook = IconFontello(0xe839);
+  static const IconData delete_tag = IconFontello(0xe83F);
+  static const IconData btn_send = IconFontello(0xe840);
+  static const IconData filter = IconFontello(0xe841);
 }
