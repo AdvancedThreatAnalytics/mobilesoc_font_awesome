@@ -86,4 +86,14 @@ class MobilesocFontAwesome {
   static const IconData delete_tag = IconFontello(0xe83F);
   static const IconData btn_send = IconFontello(0xe840);
   static const IconData filter = IconFontello(0xe841);
+
+  static const IconData private_closed = IconFontello(0xe844);
+  static const IconData private_open = IconFontello(0xe845);
+  static const IconData whitelist = IconFontello(0xe846);
+  static const IconData tier = IconFontello(0xe847);
+  static const IconData deactivate = IconFontello(0xe848);
+  static const IconData activate = IconFontello(0xe849);
+  static const IconData swipe_delete = IconFontello(0xe84A);
+  static const IconData blacklist = IconFontello(0xe84B);
+  static const IconData values = IconFontello(0xe84c);
 }
