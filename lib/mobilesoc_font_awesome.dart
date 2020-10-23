@@ -87,6 +87,7 @@ class MobilesocFontAwesome {
   static const IconData btn_send = IconFontello(0xe840);
   static const IconData filter = IconFontello(0xe841);
   static const IconData attachment = IconFontello(0xe842);
+  static const IconData snippets = IconFontello(0xe843);
   static const IconData private_closed = IconFontello(0xe844);
   static const IconData private_open = IconFontello(0xe845);
   static const IconData whitelist = IconFontello(0xe846);
