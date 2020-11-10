@@ -103,5 +103,11 @@ class MobilesocFontAwesome {
   static const IconData checkbox_selected = IconFontello(0xe851);
   static const IconData request_review = IconFontello(0xe852);
   static const IconData warning = IconFontello(0xe853);
-  static const IconData file_download = IconFontello(0xe854);
+  static const IconData file_download = IconFontello(0xe856);
+  static const IconData download = IconFontello(0xe857);
+  static const IconData users_and_roles = IconFontello(0xe859);
+  static const IconData up = IconFontello(0xe855);
+  static const IconData request_access = IconFontello(0xe854);
+  static const IconData dot_arrow_down = IconFontello(0x2191);
+  static const IconData down = IconFontello(0x2193);
 }
