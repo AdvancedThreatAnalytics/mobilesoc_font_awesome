@@ -20,7 +20,6 @@ encrypt() {
         --recipient devashish@criticalstart.com \
         --recipient pushpendra05.khandelwal@gmail.com \
         --recipient tatyana@criticalstart.com \
-        --recipient yershov.pavel.wsk@gmail.com \
         --recipient avazalimov95@mail.ru \
         --recipient timi4.uz@mail.ru \
         --armor --encrypt $1
