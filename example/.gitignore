@@ -8,6 +8,16 @@
 .buildlog/
 .history
 .svn/
+.envrc
+gen/*
+fastlane/report.xml
+.gradle/*
+*/.flutter-plugins-dependencies
+
+Runner.ipa
+Runner.app.dSYM.zip
+**/fastlane/report.xml
+*.io.threatanalytics.atap.mobileprovision
 
 # IntelliJ related
 *.iml
@@ -22,10 +32,11 @@
 **/doc/api/
 .dart_tool/
 .flutter-plugins
+.flutter-plugins-dependencies
 .packages
 .pub-cache/
 .pub/
-/build/
+build/
 
 # Android related
 **/android/**/gradle-wrapper.jar
@@ -55,12 +66,15 @@
 **/ios/.generated/
 **/ios/Flutter/App.framework
 **/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
 **/ios/Flutter/Generated.xcconfig
 **/ios/Flutter/app.flx
 **/ios/Flutter/app.zip
 **/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Flutter/.last_build_id
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
