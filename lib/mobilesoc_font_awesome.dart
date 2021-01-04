@@ -1,8 +1,8 @@
 library mobilesoc_font_awesome;
 
-import 'font_awesome_map.dart';
 import 'package:flutter/widgets.dart';
 
+import 'font_awesome_map.dart';
 import 'icon_data.dart';
 
 const String BLANK_ICON = 'fa-stop';
@@ -38,6 +38,7 @@ class MobilesocFontAwesome {
   static const IconData eye = IconFontello(0xe80f);
   static const IconData face_id = IconFontello(0xe810);
   static const IconData high_priority_alert = IconFontello(0xe811);
+
   static const IconData nav_alerts = IconFontello(0xe812);
   static const IconData nav_dashboard_active = IconFontello(0xe813);
   static const IconData nav_notifications = IconFontello(0xe814);
@@ -50,6 +51,7 @@ class MobilesocFontAwesome {
   static const IconData assign_to_me = IconFontello(0xe81b);
   static const IconData close_alert_swipe = IconFontello(0xe81c);
   static const IconData devo_console = IconFontello(0xe81d);
+
   static const IconData initial_event = IconFontello(0xe81e);
   static const IconData edit = IconFontello(0xe81f);
   static const IconData more_actions = IconFontello(0xe820);
@@ -62,6 +64,7 @@ class MobilesocFontAwesome {
   static const IconData tokens = IconFontello(0xe827);
   static const IconData add_new = IconFontello(0xe828);
   static const IconData user_email = IconFontello(0xe829);
+
   static const IconData contact_us = IconFontello(0xe82a);
   static const IconData release_notes = IconFontello(0xe82b);
   static const IconData app_guide = IconFontello(0xe82c);
@@ -72,6 +75,7 @@ class MobilesocFontAwesome {
   static const IconData support = IconFontello(0xe831);
   static const IconData phone_number = IconFontello(0xe833);
   static const IconData security = IconFontello(0xe834);
+
   static const IconData timeline = IconFontello(0xe835);
   static const IconData checkbox_default = IconFontello(0xe837);
   static const IconData minus = IconFontello(0xe838);
@@ -84,6 +88,7 @@ class MobilesocFontAwesome {
   static const IconData playbook = IconFontello(0xe839);
   static const IconData nav_filter = IconFontello(0xe83e);
   static const IconData delete_tag = IconFontello(0xe83F);
+
   static const IconData btn_send = IconFontello(0xe840);
   static const IconData filter = IconFontello(0xe841);
   static const IconData attachment = IconFontello(0xe842);
@@ -95,20 +100,21 @@ class MobilesocFontAwesome {
   static const IconData deactivate = IconFontello(0xe848);
   static const IconData activate = IconFontello(0xe849);
   static const IconData swipe_delete = IconFontello(0xe84A);
+
   static const IconData blacklist = IconFontello(0xe84B);
   static const IconData values = IconFontello(0xe84c);
+  static const IconData down = IconFontello(0xe84d);
   static const IconData danger = IconFontello(0xe84e);
   static const IconData validate = IconFontello(0xe84f);
   static const IconData arrow_right = IconFontello(0xe850);
   static const IconData checkbox_selected = IconFontello(0xe851);
   static const IconData request_review = IconFontello(0xe852);
   static const IconData warning = IconFontello(0xe853);
-  static const IconData file_download = IconFontello(0xe856);
-  static const IconData download = IconFontello(0xe857);
-  static const IconData users_and_roles = IconFontello(0xe859);
-  static const IconData up = IconFontello(0xe855);
   static const IconData request_access = IconFontello(0xe854);
-  static const IconData dot_arrow_down = IconFontello(0x2191);
-  static const IconData down = IconFontello(0x2193);
-  static const IconData info = IconFontello(0xe858);
+  static const IconData up = IconFontello(0xe855);
+  static const IconData file_download = IconFontello(0xe856);
+  static const IconData download = IconFontello(0xe858);
+  static const IconData dot_arrow_down = IconFontello(0xe857);
+  static const IconData users_and_roles = IconFontello(0xe859);
+  static const IconData info = IconFontello(0xe85A);
 }
