@@ -64,7 +64,7 @@ void main(List<String> arguments) {
   output.writeAsStringSync(generatedOutput.join('\n'));
 }
 
-String generateIconDefinition(String iconName, String style, String unicode) {
+String generateIconDefinition(String iconName, String style, String? unicode) {
   style = '${style[0].toUpperCase()}${style.substring(1)}';
 
   String iconDataSource = 'IconData$style';

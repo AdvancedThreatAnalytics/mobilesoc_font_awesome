@@ -11,12 +11,12 @@ class MobilesocFontAwesome {
   MobilesocFontAwesome._();
 
   static IconData getIcon(String faIconName) {
-    IconData icon = icons[faIconName];
+    IconData? icon = icons[faIconName];
 
     if (icon == null) {
       icon = icons[BLANK_ICON];
     }
-    return icon;
+    return icon!;
   }
 
   /// Fontello fonts - icons
@@ -117,4 +117,6 @@ class MobilesocFontAwesome {
   static const IconData dot_arrow_down = IconFontello(0xe857);
   static const IconData users_and_roles = IconFontello(0xe859);
   static const IconData info = IconFontello(0xe85A);
+  static const IconData whitelisted = IconFontello(0xe85B);
+  static const IconData share = IconFontello(0xe85C);
 }
