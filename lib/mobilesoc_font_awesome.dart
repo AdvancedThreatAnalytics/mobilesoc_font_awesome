@@ -117,4 +117,7 @@ class MobilesocFontAwesome {
   static const IconData dot_arrow_down = IconFontello(0xe857);
   static const IconData users_and_roles = IconFontello(0xe859);
   static const IconData info = IconFontello(0xe85A);
+  static const IconData whitelisted = IconFontello(0xe85B);
+  static const IconData share = IconFontello(0xe85C);
+  static const IconData arrow_top = IconFontello(0xe85D);
 }
