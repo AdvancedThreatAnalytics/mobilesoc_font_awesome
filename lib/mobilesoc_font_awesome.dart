@@ -11,12 +11,12 @@ class MobilesocFontAwesome {
   MobilesocFontAwesome._();
 
   static IconData getIcon(String faIconName) {
-    IconData icon = icons[faIconName];
+    IconData? icon = icons[faIconName];
 
     if (icon == null) {
       icon = icons[BLANK_ICON];
     }
-    return icon;
+    return icon!;
   }
 
   /// Fontello fonts - icons
